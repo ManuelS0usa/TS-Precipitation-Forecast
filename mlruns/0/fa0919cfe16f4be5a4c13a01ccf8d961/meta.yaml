@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ManuelSousa/Documents/P%C3%B3s-Gradua%C3%A7%C3%A3o%20Applied%20AI%20%26%20ML/Bloco%202/Time%20Series%20Forecasting/TS-Precipitation-Forecast/mlruns/0/fa0919cfe16f4be5a4c13a01ccf8d961/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: fa0919cfe16f4be5a4c13a01ccf8d961
+run_uuid: fa0919cfe16f4be5a4c13a01ccf8d961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1649710628377
+status: 1
+tags: []
+user_id: manuelsousa
