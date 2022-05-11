@@ -6,7 +6,7 @@ Viveiros Monterosa [http://www.monterosa.pt/pt/] are a flower production company
 
 ### Scripts
 The following scripts were built in the scope of the development of this project:
-* data_load.py: Import and transform the data;
+* data_load.py: Class to handle data importing and transformation;
 * eda.ipynb: Exploratory data analysis;
 * arma_models.ipynb: Time series arma and holt-winters based models;
-* rnn_models.ipynb: recurrent neural networks (LSTM) time series based models.
+* rnn_models.ipynb: Recurrent neural networks (LSTM) time series based models.
